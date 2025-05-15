@@ -498,7 +498,8 @@ color:#fff;
 	transition: all 0.5s ease 0s;
 }
 .top_menu_bg{
-background:#4d54fd;
+background:linear-gradient(to right, #e6e7ff,#4d54fd,#4d54fd );
+
 padding:10px 20px;
 border-radius:30px;
 }

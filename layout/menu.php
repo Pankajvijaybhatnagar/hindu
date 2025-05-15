@@ -1,32 +1,34 @@
-<!-- START NAVBAR -->  
-	<div id="navigation" class="fixed-top navbar-light bg-faded site-navigation">
-		<div class="container top_menu_bg">
-			<div class="row">
-				<div class="col-lg-2 col-md-3 col-sm-4">
-    <div class="site-logo">
-        <a href="index.html">
-            <img src="assets/images/all-img/hindu.png" alt="Hindustan Council of Secondary Education" style="width: 100px; height: 60px;">
-        </a>          			        				
-    </div>
-</div><!--- END Col -->
-				
-				<div class="col-lg-6 col-md-9 col-sm-8 ">
-					<div class="header_right ">
-						<nav id="main-menu" class="ms-auto">
-    <ul>
-        <li><a class="nav-link" href="index.html">Home</a></li>
-        <li><a class="nav-link" href="about.html">About Us</a></li>
-        <!-- <li><a class="nav-link" href="team.html">Instructor</a></li>
-        <li><a class="nav-link" href="faq.html">FAQs</a></li> -->
-        <li><a class="nav-link" href="event.html">Events</a></li>
-        <li><a class="nav-link" href="course.html">Courses</a></li>
-        <!-- <li><a class="nav-link" href="shop.html">Shop</a></li>
-        <li><a class="nav-link" href="blog.html">Blog</a></li> -->
-        <li><a class="nav-link" href="contact.html">Contact</a></li>
-    </ul>
-</nav>
+<!-- START NAVBAR -->
+<div id="navigation" class="fixed-top navbar-light bg-faded site-navigation">
+    <div class="container top_menu_bg">
+        <div class="row">
+            <div class="col-lg-2 col-md-3 col-sm-4">
+                <div class="site-logo">
+                    <a href="index.html">
+                        <img src="assets/images/all-img/hindu.png" alt="Hindustan Council of Secondary Education"
+                            style="width: 100px; ">
+                    </a>
+                </div>
+            </div>
+            <!--- END Col -->
 
-						<!-- <nav id="main-menu" class="ms-auto">
+            <div class="col-lg-6 col-md-9 col-sm-8 ">
+                <div class="header_right ">
+                    <nav id="main-menu" class="ms-auto">
+                        <ul>
+                            <li><a class="nav-link" href="index.html">Home</a></li>
+                            <li><a class="nav-link" href="about.html">About Us</a></li>
+                            <!-- <li><a class="nav-link" href="team.html">Instructor</a></li>
+        <li><a class="nav-link" href="faq.html">FAQs</a></li> -->
+                            <li><a class="nav-link" href="event.html">Events</a></li>
+                            <li><a class="nav-link" href="course.html">Courses</a></li>
+                            <!-- <li><a class="nav-link" href="shop.html">Shop</a></li>
+        <li><a class="nav-link" href="blog.html">Blog</a></li> -->
+                            <li><a class="nav-link" href="contact.html">Contact</a></li>
+                        </ul>
+                    </nav>
+
+                    <!-- <nav id="main-menu" class="ms-auto">
 							<ul>
 							  <li><a class="nav-link" href="index.html">Home <span class="ti-angle-down"></span></a>
 								<ul>
@@ -74,25 +76,30 @@
 							    <li><a class="nav-link" href="contact.html">Contact</a></li>
 							</ul>
 						</nav> -->
-						<div id="mobile_menu"></div>
-					</div>
-				</div><!--- END Col -->
-				<div class="col-lg-4 col-md-3 col-sm-8 m-none">
-					<div class="home_lc">
-						<a href="#" class="hlc">
-						  <i class="ti-heart"></i>
-						  <span class="gactive">0</span>
-					   </a>
-						<a href="#" class="hlc">
-						  <i class="ti-shopping-cart-full"></i>
-						  <span class="gactive">2</span>
-					   </a>
-					</div>
-					<div class="call_to_action">
-						<a class="btn_two" href="register.html">Login / Register</a>
-					</div><!--- END SOCIAL PROFILE -->					
-				</div><!--- END Col -->
-			</div><!--- END ROW -->
-		</div><!--- END CONTAINER -->
-	</div> 	  
-	<!-- END NAVBAR -->
+                    <div id="mobile_menu"></div>
+                </div>
+            </div>
+            <!--- END Col -->
+            <div class="col-lg-4 col-md-3 col-sm-8 m-none">
+                <div class="home_lc">
+                    <a href="#" class="hlc">
+                        <i class="ti-heart"></i>
+                        <span class="gactive">0</span>
+                    </a>
+                    <a href="#" class="hlc">
+                        <i class="ti-shopping-cart-full"></i>
+                        <span class="gactive">2</span>
+                    </a>
+                </div>
+                <div class="call_to_action">
+                    <a class="btn_two" href="register.html">Login / Register</a>
+                </div>
+                <!--- END SOCIAL PROFILE -->
+            </div>
+            <!--- END Col -->
+        </div>
+        <!--- END ROW -->
+    </div>
+    <!--- END CONTAINER -->
+</div>
+<!-- END NAVBAR -->
